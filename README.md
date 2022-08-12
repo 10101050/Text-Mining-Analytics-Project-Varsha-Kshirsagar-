@@ -31,4 +31,5 @@ Customer Care Service.
 Fraud Detection.
 
 #Conclusion
+
 Text mining algorithms will give us useful and structured data which can reduces time and cost. Hidden information in social network sites, bioinformatics and internet security etc. are identified using text mining is a major challenge in these fields.
